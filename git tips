@@ -7,3 +7,5 @@ git log --pretty=oneline --since='5 minutes ago'
 git log --pretty=oneline --until='5 minutes ago'
 git log --pretty=oneline --author=<your name>
 git log --pretty=oneline --all
+
+#больше описания вариантов лога на https://githowto.com/uk/history
